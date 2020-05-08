@@ -1,0 +1,16 @@
+body {
+    background-image: url('../arquivos/bkg.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom;
+    background-color: #00A7B2;
+}
+label {
+    color: #EDE7E3;
+    font-size: 1.2em;
+}
+h2 {
+    padding-top: 20px;
+    color: #16697A;
+    text-align: center;
+}
